@@ -23,7 +23,9 @@ const Home = () => {
 						"green light" + (color === "green" ? " shine" : "")
 					}></div>
 			</div>
-			<button type="button" class="btn btn-outline-warning">Warning</button>
+			<button type="button" class="btn btn-outline-warning extra">
+				Voy morao :D
+			</button>
 		</div>
 	);
 };
